@@ -6,6 +6,7 @@
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/%20UCK-AgU6luMFlKxKbWLRM-SA">
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/fernando1314xr">
 
+(contactame en: contacto.fernando1314@gmail.com)
 
 ## Que encontraras aqui
 - tutoriales de minecraft (comandos)
