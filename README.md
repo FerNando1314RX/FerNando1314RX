@@ -3,8 +3,8 @@
 </div>
 <img src="https://i.imgur.com/COrbu8L.jpeg">
   
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/%20UCK-AgU6luMFlKxKbWLRM-SA">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/fernando1314xr">
+[<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/%20UCK-AgU6luMFlKxKbWLRM-SA">](https://www.youtube.com/@FerNando1314XR)
+[<img alt="Twitch Status" src="https://img.shields.io/twitch/status/fernando1314xr">](https://www.twitch.tv/fernando1314xr)
 [](https://www.instagram.com/fernandoxr24/)
 
 (contactame en: contacto.fernando1314@gmail.com)
